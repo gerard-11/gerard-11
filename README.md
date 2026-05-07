@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-💻 Frontend Developer  
-
+💻 Frontend Developer focus on web
 💻 Fullstack Developer en formación  
 🚀 Enfocado en React, NestJS y PostgreSQL
 
@@ -21,8 +20,4 @@
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gerard-11&layout=compact&langs_count=8&theme=tokyonight"/>
 
-
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=gerard-11&show_icons=true&theme=tokyonight)
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerard-11&layout=compact&theme=tokyonight)
 
