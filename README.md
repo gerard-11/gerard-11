@@ -15,5 +15,5 @@
 - Zustand
 - Autenticación JWT
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerard-11layout=compact)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gerard-11&show_icons=true)
