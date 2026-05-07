@@ -1,14 +1,15 @@
-## Hi there 👋
+Hi there 👋
 
 💻 Frontend Developer focus on web
+
 💻 Fullstack Developer en formación  
+
 🚀 Enfocado en React, NestJS y PostgreSQL
 
-## Tecnologías
+Tecnologías
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,nestjs,postgres,prisma,docker,git,github)](https://skillicons.dev)
 
-## Actualmente aprendiendo
 
 - Arquitectura backend
 - Docker
