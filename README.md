@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**gerard-11/gerard-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack Developer en formación  
+🚀 Enfocado en React, NestJS y PostgreSQL
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,nestjs,postgres,prisma,docker,git,github)](https://skillicons.dev)
+
+## Actualmente aprendiendo
+
+- Arquitectura backend
+- Docker
+- TanStack Query
+- Zustand
+- Autenticación JWT
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true)
