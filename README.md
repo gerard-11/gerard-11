@@ -1,10 +1,10 @@
 Hi there 👋
 
-💻 Frontend Developer focus on web
+🚀 Fullstack Developer focused on scalable web and mobile applications
 
-💻 Fullstack Developer en formación  
+⚛️ Building with React, NestJS, PostgreSQL, Docker and AWS
 
-🚀 Enfocado en React, NestJS y PostgreSQL
+🤖 Interested in AI-powered workflows, LLM integrations and modern software architecture
 
 Tecnologías
 
