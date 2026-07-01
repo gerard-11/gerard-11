@@ -6,7 +6,7 @@ Hi there 👋
 
 🤖 Interested in AI-powered workflows, LLM integrations and modern software architecture
 
-Tecnologías
+Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,nestjs,postgres,prisma,docker,git,github)](https://skillicons.dev)
 
